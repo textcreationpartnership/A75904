@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The advantages of the kingdome of England, both abroad and at home, by manageing and issuing the drapery, and woollen manufactures of this kingdom, under the ancient government of the fellowship of Merchant's-Adventurers of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75904</idno>
+            <idno type="STC">Wing A600D</idno>
+            <idno type="STC">ESTC R224839</idno>
+            <idno type="EEBO-CITATION">99896343</idno>
+            <idno type="PROQUEST">99896343</idno>
+            <idno type="VID">154101</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75904)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154101)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2397:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The advantages of the kingdome of England, both abroad and at home, by manageing and issuing the drapery, and woollen manufactures of this kingdom, under the ancient government of the fellowship of Merchant's-Adventurers of England</title>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1662?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Caption title.</note>
+                  <note>Wing (CD-ROM edition) reports title as "... woollen manefactures [sic] ...".</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  England --  Early works to 1800.</term>
+               <term>Wool industry --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Woolen goods industry --  Germany --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:154101:2"/>
+            <pb n="1" facs="tcp:154101:2" rendition="simple:additions"/>
+            <head>The Advantages of the Kingdome of ENGLAND, both abroad and at home, by Manageing and Iſſuing the <hi>Drapery,</hi> and <hi>Woollen Manufactures</hi> of this King<g ref="char:EOLhyphen"/>dom, under the Ancient Government of the Fellowſhip of MERCHANT'S ADVENTURERS of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">G</seg>OVERNMENT is granted neceſſary, as over the perſons of men, ſ of thoſe things which are convenient and fit for the mainte<g ref="char:EOLhyphen"/>nance of humane Society.</p>
+            <p>Arts and Merchandiſe are the naturall effects and employment of this Society: And as without Government, men could not be reduced into order, no more could Arts and Merchandiſe be improved, to the benefit of the ſociety of mankinde, if the ſame were not by the Magiſtrate regulated.</p>
+            <p>There was never any Nation, but as ſoon as it became civilliz'd, it ſought to employ it ſelfe, to make advantage of the growth and product of the Land upon which God placed the ſame.</p>
+            <p>God hath not bleſſed any Nation with that univerſall product of its own Countrey, as that it ſhould not ſtand in need of ſomething, whereof ano<g ref="char:EOLhyphen"/>ther may furniſh it; and hath either given a ſuperfluity to every Nation, by commutation, to ſupply one another reciprocally, or elſe the quickneſs and induſtry of ſpirit, invention and labour, to furniſh their ſeverall wants and neceſſities otherwayes.</p>
+            <p>The ſuperfluity of <hi>England</hi> was Beſtiall, and the product of its Mines: The Sheep rendred an overplus of Wools, and Wool fells, the other Cat<g ref="char:EOLhyphen"/>tle, Leather, and the entrails of the earth, Lead.</p>
+            <pb n="1" facs="tcp:154101:1" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="2" facs="tcp:154101:3"/>
+            <p> Our Fore-fathers did a long time content themſelves to be diſcharged thereof, even as nature, with a little art and workmanſhip, gave the ſame unto them.</p>
+            <p>The Neighbour-Nation of <hi>Flanders,</hi> not abounding in any thing of this kinde, did buy this wool, and Endraped the ſame, and grew more opu<g ref="char:EOLhyphen"/>lent by their Manufacture thereof, than this Nation, by the material it ſelf.</p>
+            <p>The Grower of wool reſted in the profit he made of his wools, at his own door, or his Countrey-market; and thence did ariſe a ſort of men who bought the ſame up of them, and begot a Traffique between the Wool-grower and the foreign Endraper, which were from their eſtabliſh<g ref="char:EOLhyphen"/>ing their Market for the ſtranger in ſome certain City, lying commodious for entercourſe, called Staplers.</p>
+            <p>Yet ſtill all along the Supreme Magiſtrate made Laws, both as to the ſorting, combing; and packing of wools, as alſo for the ſaid Staplers more regular iſſuing of the ſame out of the Land, granting them many Franchi<g ref="char:EOLhyphen"/>zes, Immunities, Priviledges, and Exemptions not communicable to every perſon, but to ſuch only as were bred up in the myſtery of their Trade.</p>
+            <p>So here is a Corporation eſtabliſhed for the regulation of the firſt ingredient of Clothing; for their incouragement they have Fran<g ref="char:EOLhyphen"/>chizes, and for their regular iſſuing out their commodities they have Mart-Towns abroad, and at home: And all this found neceſſary by the wiſdome of ſeveral Parliament.</p>
+            <p>Franchizes and priviledges import diſtinction and ſeparation be<g ref="char:EOLhyphen"/>tween and from other perſons, and without theſe no great affair can either be compaſſed or maintained.</p>
+            <p>In King <hi>Edward</hi> the firſt's time, there did ſpring up out of the Guild of Mercers <hi>London,</hi> a ſort of Engliſh Merchants, who firſt began to attempt the bringing in the making of Cloth into this Land, and about the latter end of his Reign, <hi>viz. Anno</hi> 1296. they obtained priviledges of <hi>John</hi> the Second, Duke of <hi>Brabant,</hi> and ſtapled themſelves in <hi>Antwerp,</hi> joyning in ſociety with them all o<g ref="char:EOLhyphen"/>ther Engliſh Merchants reſorting to thoſe parts.</p>
+            <p>After few years, King <hi>Edward</hi> the third, taking notice of their hopeful growth, did, to incourage this Manufacture, by many pri<g ref="char:EOLhyphen"/>viledges, invite over the Strangers, both Cloth-makers and Cloth-dreſſers, authorizing all by Parliament: inſomuch, as at the latter end of his Reign, he and his Parliaments did adventure to prohibit the importation of foreign Cloth.</p>
+            <p>King <hi>Henry</hi> the fourth, finding how that the Government of this Trade (which hitherto had no other countenance, but by the under
+<pb n="3" facs="tcp:154101:3" rendition="simple:additions"/>a foreign Prince) might be advanced by the concurrence of his Au<g ref="char:EOLhyphen"/>thority, did firſt, <hi>Anno</hi> 1406. grant theſe Merchants a Charter to govern this Trade, both abroad and at home; and he grounded the ſame upon the defect of good Government.</p>
+            <p>Now then, the conveniences of this Government will appear, from the benefits which ariſe thereby. Firſt, to the publique, and then to the private Undertakers; and laſtly, to the ſeveral Artificers and Workmen depending on Clothing, and the general influence the ſame hath upon the whole Nation.</p>
+            <div type="part">
+               <head>The publique Intereſt is.</head>
+               <p>That nothing is more evident, than that the upholding this Government hath obtained, and gained this great Manufacture from the Stranger.</p>
+               <p>That it hath, all along, cheriſhed amity and entercourſe between this Nation, and its neighbours.</p>
+               <p>That it hath ſeaſonably prevented all Innovations, wrongs, incroach<g ref="char:EOLhyphen"/>ments, and exactions abroad and at home, whilſt the Supreme Magiſtrate continued its protection.</p>
+               <p>That it hath, in all times, advanced the vent of Clothing abroad.</p>
+               <p>That it hath augmented and ſecured the publique Revenue.</p>
+               <p>That it hath maintained and increaſed the Navigation.</p>
+               <p>That when either the honour of the Nation abroad, or the neceſſities thereof at home, have required the ſame, this Fellowſhip, becauſe of their Government, was alwayes to be found, were ſtill ready and at hand, and by their forward and dutiful ſervices, have averted many imminent dangers on the Nation from abroad, and ſupplied many great occaſions at home, as can be manifeſted by many particulars in the Reign of Queen <hi>Elizabeth.</hi>
+               </p>
+               <p>That by its Courts and Staples, and their good Government abroad, the Princes and Republiques of <hi>Germany,</hi> and the ſeventeen Provinces of the <hi>Netherlands,</hi> have outvied one the other, in offering them priviledges and immunities above all other Nations.</p>
+               <p>That hereby theſe Priviledges and Immunities are become the Rights of this Fellowſhip, not <hi>ex gratia,</hi> which hath in all Treaties been inſiſted upon.</p>
+               <p>And hence to the publick alſo, as well as to this Fellowſhip, have accrued theſe benefits and advantages.</p>
+               <p>That throughout ſo many Ages this Kingdome hath trained up, and been ſtill ſupplied with knowing and experienc'd Merchants, as well in the true and good making of the Cloth, and other Woollen Manufactures of
+<pb n="4" facs="tcp:154101:4"/>this Land, as alſo in the improving of the vent and profit thereof beyond the Seas.</p>
+               <p>That the Fellowſhip may take and plant their Staple of Reſidence in any City of thoſe parts, as they ſhall agree; and that the Supreme Magi<g ref="char:EOLhyphen"/>ſtrate ſhall provide, that they ſhall be therein priviledged, as they have been in any other Countreys, or places; that nothing ſhall be impoſed on their Perſons or Goods, but by their fore-knowledge.</p>
+               <p>That ſtill, in all accidents of difference, or war, between this Nation and the Supreme Magiſtrates of the Low Countries, they are provided, by Letters of ſafe conduct, to retreat in due time with their Perſons and Eſtates, and clear themſelves of the Countrey, which was religiouſly ob<g ref="char:EOLhyphen"/>ſerved, during the late breach with the States General.</p>
+               <p>That their Goods, by miſtake of entry, are not ſubject to confiſcation.</p>
+               <p>That they pay, neither to the Supreme, nor to the Inferiour Magiſtrate any Duties upon Clothes, Kerſeys, or Bayes.</p>
+               <p>That in caſe of wrack at Sea, their Goods which can be recovered are reſtored upon reaſonable Salvage.</p>
+               <p>That if by tempeſt, or other misfortune, any Ship of the Fellowſhip, de<g ref="char:EOLhyphen"/>ſigned for their Mart or Reſidence, enter any other Port, or Haven, that the ſame ſhall not be obliged to pay any Duty or Toles, except they break bulk.</p>
+               <p>That the ſaid Fellowſhip may make their contracts with ſuch conditions, as ſhall be to their moſt benefit, containing themſelves within the general limits of the Laws of thoſe Lands.</p>
+               <p>That the Members thereof may make their Wills, and diſpoſe of their moveable Goods; and that they ſhall be of the ſame validity, as if made in <hi>England.</hi>
+               </p>
+               <p>That the Fellowſhip ſhall have civil juriſdiction for the adminiſtration of Law and Juſtice over and amongſt themſelves, and their ſuppoſts, be<g ref="char:EOLhyphen"/>ing Engliſh-men, according to their own Laws and Cuſtomes, and the pri<g ref="char:EOLhyphen"/>viledges by them, in thoſe Lands, and elſewhere obtained and uſed.</p>
+               <p>That in no Contracts made with the Fellowſhip, the Debtor ſhall have any Letters of Reſpit, or the like, for prolongation of time, or protection againſt the Law.</p>
+               <p>That in criminal Caſes, if any perſon accuſe any of the Fellowſhip, the accuſer ſhall be kept in Ward with the accuſed, till the delict be made ap<g ref="char:EOLhyphen"/>pear; and for the default therein, the accuſed ſhall be forthwith diſchar<g ref="char:EOLhyphen"/>ged without coſts or damage.</p>
+               <p>That none of the Fellowſhip ſhall ſuffer confiſcation, or other damage in his Goods for crime committed by his ſervant without his knowledge.</p>
+               <p>Yet all this, upon condition that the Fellowſhip ſhall hold and keep their Court of Reſidence in thoſe Lands.</p>
+            </div>
+            <div type="part">
+               <pb n="5" facs="tcp:154101:4"/>
+               <head>The priviledges and benefits of the Fellowſhips Reſidences abroad are.</head>
+               <p>That in all caſes, either of ſlaughter, wounding, or abuſing the perſons of any of the Fellowſhip, or dammaging of their Ships or tackle in the Harbour, or of ſtealing any of their Goods, ſpeedy and exemplary Juſtice ſhall be done, and reſtitution or reparation be made.</p>
+               <p>That they ſhall enjoy Churches peculiar to themſelves, which are kept in reparation by the Towns.</p>
+               <p>That they are provided of fair publick houſes to keep their Aſſemblies in, and entertain their Factors and Agents daily, beſides, houſes for their Governour, Miniſter, Concierges, and free Hoſts, Secretaries, Clerks, and all Under-Officers, according to the quality of every of them, all free of Rent, and repaired at the charge of the Towns.</p>
+               <p>That they enjoy, in theſe publick houſes, freedome of all manner of Excizes, as to all ſorts of Beer, Wine, Fuel, and all other proviſions for houſe-keeping, and for all commerce, and the like, in all their private houſes, ſo they keep no publick Table for Strangers.</p>
+               <p>That they, in theſe houſes, are free of all Watchings, Wardings, or Quartering of Souldiers, and all contribution in that behalf, real or per<g ref="char:EOLhyphen"/>ſonal.</p>
+               <p>That no <hi>Engliſh</hi> or <hi>Scotch</hi> Garriſon ſhall be lodged in their Reſidence, without the approbation and conſent of the Fellowſhip.</p>
+               <p>That no <hi>Engliſh-man</hi> ſhall be admitted <hi>Burger,</hi> without the conſent of the Fellowſhip.</p>
+               <p>That the Fellowſhip may make Arreſt of the perſon and Goods of any <hi>Engliſh,</hi> by their own Officers, of their own authority.</p>
+               <p>That the Stranger may ſue in the Court of the Fellowſhip any <hi>Engliſh</hi> man, and ſhall be obliged to abide and perform the Sentence thereof, and ſhall not withdraw his Cauſe, or Appeal.</p>
+               <p>That the Cauſes of all Engliſh, in the Courts of the Town, ſhall be preferred in diſpatch.</p>
+               <p>That no Arreſt or Attachment of any perſon or Goods, made by the Town-Officers, by Suit of any of the Fellowſhip, ſhall be diſmiſt, or diſ<g ref="char:EOLhyphen"/>charged without their conſent.</p>
+               <p>That no man of the Fellowſhip, either in his perſon or Goods, ſhall, in any civil Action. be Arreſted, without the fore-knowledge and conſent of the Governour, or his Deputy.</p>
+               <p>That in all caſes of Capital Crime, or even of High Trcaſon, commit<g ref="char:EOLhyphen"/>ted by any of the Fellowſhip, his Eſtate ſhall, nevertheleſs, not be confiſ<g ref="char:EOLhyphen"/>cated, but come to his heirs; neither the Goods of his Principals or Friends,
+<pb n="6" facs="tcp:154101:5"/>in his, or any other mens hands, be touched or forfeited in thoſe Cities.</p>
+               <p>That none of their <hi>Burgers</hi> ſhall colour Engliſh mens goods.</p>
+               <p>That the <hi>Tare</hi> or allowance, upon defaults of Engliſh Cloth, ſhall be moderated.</p>
+               <p>That the Fellowſhip may chuſe their own Meaſurers and Packers, Bro<g ref="char:EOLhyphen"/>kers, and other Officers.</p>
+               <p>That the Fellowſhip ſhall be provided, of all fitting Dwelling-houſes, Lodgings, and Pack-houſes at a reaſonable rent.</p>
+            </div>
+            <div type="part">
+               <head>The Conveniences and Benefits of the Fellowſhips Government in ENGLAND, are:</head>
+               <p>To breed up Youth, for ſucceſſion, to take care they be inſtructed by their Maſters in their trade; to ſee they be decently maintained, to pro<g ref="char:EOLhyphen"/>vide they be, in due time, ſent over by their Maſters, to be acquain<g ref="char:EOLhyphen"/>ted, as well with the <hi>Foreign,</hi> as Home-trading; and that they be there ſo overſeen, and regulated, that they may be reſtrained from vice, and thoſe inconveniencies which Youth are inclined, and liable unto.</p>
+               <p>To imploy no perſon to be a <hi>Factor</hi> abroad, but Engliſh onely, and ſuch, ſo bred up, as aforeſaid.</p>
+               <p>To prevent, that the Kingdome loſe not a Subject by foreign Marriage, and that thereby the Myſtery of their Trade be not communicated to Strangers.</p>
+               <p>To take care, that all Clothes and Woollen Manufactures of this Land be Shipped to no other part of their priviledges beyond the Seas, but on<g ref="char:EOLhyphen"/>ly to the Mart, or Staple-Towns, both to maintain the Treaties in this behalf and to increaſe as well the Manufacture at home, as the vent there<g ref="char:EOLhyphen"/>of abroad, and there to uphold the eſteem and price thereof, which can only be done in a Mart-Town.</p>
+               <p>To appoint Shipping in the due Seaſons of the year, and according as the Market abroad requireth, or incourageth them; and that no man have the advantage of going to Market before another.</p>
+               <p>To take order that the merchant, full grown, and full of ſtock, do not carry away, or ingroſs the Commodity, but that there may be room and incouragement for Plants, and men of lower Eſtates, to imploy their ſtocks and indeavours.</p>
+               <p>To inſpect into the true making of Cloth, and all other Woollen Ma<g ref="char:EOLhyphen"/>nufactures.</p>
+               <p>To prevent the exportation of Wools and Fullers-earth, in which two points the Fellowſhip hath taken more pains, and been at greater expences, than all the Corporations, and Merchants in <hi>England.</hi>
+               </p>
+               <pb n="7" facs="tcp:154101:5"/>
+               <p> To give an account, from time to time, of all incroachments and at<g ref="char:EOLhyphen"/>tempts upon their Trade, and Priviledges beyond the Seas, and of the reaſons of all decay or obſtruction of trade, both at home, and abroad; and to adviſe, in the Station, remedy and redreſs thereof.</p>
+               <p>To correſpond weekly, and as there ſhall be occaſion, with their Courts and Members, as well reſi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing beyond the Seas, as planted throughout the Ports of <hi>England.</hi>
+               </p>
+               <p>To carry through all which affairs incumbent upon them, they imploy perſons of known worth, and integrity; in the firſt place, of Government, entertain Miniſters of zeal, good knowledge, litera<g ref="char:EOLhyphen"/>ture, and example of good life, for Gods due worſhip and Service in his Ordinances, breed up ſeveral men able to ſerve their Countrey, if need be, and to inform the ſame, of the ſtate of foreign Nations, and their attempts and competition upon, and for this great Staple of Clothing; and that the Fellowſhip do relieve daily many di<g ref="char:EOLhyphen"/>ſtreſſed perſons of this Nation abroad.</p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
